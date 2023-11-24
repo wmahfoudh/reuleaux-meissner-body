@@ -2,7 +2,7 @@ A 3D model of both, the Reuleaux tetrahedron and Meissner body
 
 ## Let's start in 2D: the Reuleaux triangle
 ![01](https://upload.wikimedia.org/wikipedia/commons/d/d2/ReuleauxTriangle.svg)
-![03](https://upload.wikimedia.org/wikipedia/commons/e/eb/Reuleaux_supporting_lines.svg)
+![03](https://upload.wikimedia.org/wikipedia/commons/8/8a/Reuleaux_triangle_roll.gif?20161212062058)
 ## Reuleaux Tetrahedron
 The Reuleaux tetrahedron is the intersection of four balls of radius s centered at the vertices of a regular tetrahedron. The Reuleaux tetrahedron has the same face structure as a regular tetrahedron, but with curved faces: four vertices, and four curved faces, connected by six circular-arc edges.
 
