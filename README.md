@@ -1,6 +1,6 @@
 A 3D model of both, the Reuleaux tetrahedron and Meissner body in STEP and STL formats
 
-## Let's start in 2D: the Reuleaux triangle
+## Let's start in 2D: the Reuleaux Triangle
 ![01](https://upload.wikimedia.org/wikipedia/commons/d/d2/ReuleauxTriangle.svg)
 ![03](https://upload.wikimedia.org/wikipedia/commons/8/8a/Reuleaux_triangle_roll.gif?20161212062058)
 ## Reuleaux Tetrahedron
