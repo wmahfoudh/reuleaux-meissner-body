@@ -18,5 +18,5 @@ Because the Reuleaux tetrahedron is not a surface of a constant width like the t
 - Side of Meissner tetrahedra to create a hollowed shape and assemble it
 
 ## The math begind this?
-- ![Reuleaux Tetrahedron](https://mathworld.wolfram.com/ReuleauxTetrahedron.html)
-- ![Meissner Tetrahedra](https://mathworld.wolfram.com/MeissnerTetrahedra.html)
+- [Reuleaux Tetrahedron](https://mathworld.wolfram.com/ReuleauxTetrahedron.html)
+- [Meissner Tetrahedra](https://mathworld.wolfram.com/MeissnerTetrahedra.html)
