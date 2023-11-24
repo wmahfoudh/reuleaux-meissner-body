@@ -3,7 +3,10 @@ A 3D model of both, the Reuleaux tetrahedron and Meissner body in STEP and STL f
 ## Let's start in 2D: the Reuleaux Triangle
 ![01](https://upload.wikimedia.org/wikipedia/commons/d/d2/ReuleauxTriangle.svg)
 ![03](https://upload.wikimedia.org/wikipedia/commons/8/8a/Reuleaux_triangle_roll.gif?20161212062058)
-## Reuleaux Tetrahedron
+
+![02](https://indraadhwa.com/wp-content/uploads/2021/07/gif.gif)
+
+## Now in 3D: The Reuleaux Tetrahedron
 The Reuleaux tetrahedron is the intersection of four balls of radius s centered at the vertices of a regular tetrahedron. It has the same face structure as a regular tetrahedron, but with curved faces: four vertices, and four curved faces, connected by six circular-arc edges.
 
 ![Reuleaux](https://mathworld.wolfram.com/images/eps-svg/ReuleauxTetrahedronPOV_900.svg)
@@ -17,6 +20,7 @@ Because the Reuleaux tetrahedron is not a surface of a constant width like the t
 ![Meissner](http://www.xtalgrafix.com/Reuleaux/meissner3b.gif)
 ![Meissner](http://www.xtalgrafix.com/Reuleaux/meissner3a.gif)
 
+![Meissner](https://i.imgur.com/i0rAlkl.gif)
 ## Models
 - Reuleaux tetrahedron & Meissner tetrahedra
 - Sides of both to create a hollowed shape and assemble it, magnets can be used for assembly
