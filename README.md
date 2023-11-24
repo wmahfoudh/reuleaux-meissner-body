@@ -14,6 +14,8 @@ The Reuleaux tetrahedron is the intersection of four balls of radius s centered 
 Because the Reuleaux tetrahedron is not a surface of a constant width like the triangle Releaux on a 2D surface, Ernst Meissner and Friedrich Schilling showed how to modify the Reuleaux tetrahedron to form a surface of constant width, by replacing three of its edge arcs by curved patches formed as the surfaces of rotation of a circular arc. It has been also conjectured that the Meissner tetrahedra has the smallest possible volume for a constant surface shape, but this has not been mathematically demonstrated (yet 😉).
 
 ![Meissner](https://mathworld.wolfram.com/images/eps-svg/MeissnerTetrahedra_1000.svg)
+![Meissner](http://www.xtalgrafix.com/Reuleaux/meissner3b.gif)
+![Meissner](http://www.xtalgrafix.com/Reuleaux/meissner3a.gif)
 
 ## Models
 - Reuleaux tetrahedron
