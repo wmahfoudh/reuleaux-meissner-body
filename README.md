@@ -1,4 +1,4 @@
-A 3D model of both, the Reuleaux tetrahedron and Meissner body
+A 3D model of both, the Reuleaux tetrahedron and Meissner body in STEP and STL formats
 
 ## Let's start in 2D: the Reuleaux triangle
 ![01](https://upload.wikimedia.org/wikipedia/commons/d/d2/ReuleauxTriangle.svg)
@@ -18,10 +18,9 @@ Because the Reuleaux tetrahedron is not a surface of a constant width like the t
 ![Meissner](http://www.xtalgrafix.com/Reuleaux/meissner3a.gif)
 
 ## Models
-- Reuleaux tetrahedron
-- Face of a tetrahedron to create a hollowed shape and assemble it
-- Meissner tetrahedra
-- Side of Meissner tetrahedra to create a hollowed shape and assemble it
+- Reuleaux tetrahedron & Meissner tetrahedra
+- Sides of both to create a hollowed shape and assemble it, magnets can be used for assembly
+Happy 3D printing!
 
 ## Need Math?
 - [Reuleaux Tetrahedron](https://mathworld.wolfram.com/ReuleauxTetrahedron.html)
