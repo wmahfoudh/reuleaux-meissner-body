@@ -42,3 +42,13 @@ Happy 3D printing!
 ## Need Math?
 - [Reuleaux Tetrahedron](https://mathworld.wolfram.com/ReuleauxTetrahedron.html)
 - [Meissner Tetrahedra](https://mathworld.wolfram.com/MeissnerTetrahedra.html)
+
+## Bonus
+
+Reuleaux Trangle shape has been used a lot in Ghotic architecture
+
+![12](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/12.png)
+
+and nowadays used in... pencils
+
+![13](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/13.png)
