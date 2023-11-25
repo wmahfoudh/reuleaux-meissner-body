@@ -18,18 +18,18 @@ This is an interesting property that is used to for example to drill square hole
 ## Now in 3D: The Reuleaux Tetrahedron
 The Reuleaux tetrahedron is the intersection of four balls centered at the vertices of a regular tetrahedron. It has the same face structure as a regular tetrahedron, but with curved faces: four vertices, and four curved faces, connected by six circular-arc edges.
 
-![Reuleaux](https://mathworld.wolfram.com/images/eps-svg/ReuleauxTetrahedronPOV_900.svg)
-![Reuleaux](https://mathworld.wolfram.com/images/eps-svg/ReuleauxTetrahedronWire_700.svg)
-![Reuleuax](https://upload.wikimedia.org/wikipedia/commons/4/44/ReuleauxTetrahedron_Animation.gif)
+![05](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/05.svg)
+![06](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/06.svg)
+![07](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/07.gif)
 
 ## Meissner Tetrahedra
 Because the Reuleaux tetrahedron is not a surface of a constant width like the triangle Releaux on a 2D surface, Ernst Meissner and Friedrich Schilling showed how to modify the Reuleaux tetrahedron to form a surface of constant width, by replacing three of its edge arcs by curved patches formed as the surfaces of rotation of a circular arc. It is conjectured that the Meissner tetrahedra have the smallest volume among all solids of constant width, but this has not been mathematically demonstrated (yet 😉).
 
-![Meissner](https://mathworld.wolfram.com/images/eps-svg/MeissnerTetrahedra_1000.svg)
-![Meissner](http://www.xtalgrafix.com/Reuleaux/meissner3b.gif)
-![Meissner](http://www.xtalgrafix.com/Reuleaux/meissner3a.gif)
+![08](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/08.svg)
+![09](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/09.gif)
+![10](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/10.gif)
 
-![Meissner](https://i.imgur.com/i0rAlkl.gif)
+![11](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/11.gif)
 
 ## Models in this repository
 - Reuleaux tetrahedron & Meissner tetrahedra
