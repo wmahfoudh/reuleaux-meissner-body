@@ -11,7 +11,7 @@ When rotated, a disk will keep its centre fixed, while the Reuleaux triangel wil
 
 ![03](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/03.gif)
 
-This is an interesting property that is used to for example to drill square holes:
+This is an interesting property that is used to for [example](https://youtu.be/rjckF0-VeGI?si=80X_A6ezqKm5zJnR) to drill square holes:
 
 ![04](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/04.gif)
 
