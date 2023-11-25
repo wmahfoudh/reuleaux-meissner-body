@@ -3,7 +3,7 @@ A 3D model of both, the Reuleaux tetrahedron and Meissner body in STEP and STL f
 ## Let's start in 2D: the Reuleaux Triangle
 The Reuleaux tetrahedron and the Meissner tetrahedra are both three-dimensional shapes that are related to the Reuleaux triangle, a two-dimensional curve of constant width.
 
-![03](https://upload.wikimedia.org/wikipedia/commons/8/8a/Reuleaux_triangle_roll.gif?20161212062058)
+![01](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/01.png)
 
 ![02](https://indraadhwa.com/wp-content/uploads/2021/07/gif.gif)
 
