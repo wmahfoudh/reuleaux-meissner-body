@@ -36,6 +36,8 @@ Because the Reuleaux tetrahedron is not a surface of a constant width like the t
 - Sides of both to create a hollowed shape and assemble it, magnets can be used for assembly
 Happy 3D printing!
 
+1[20](https://github.com/wmahfoudh/reuleaux-meissner-body/blob/main/images/20.png)
+
 ## Need Math?
 - [Reuleaux Tetrahedron](https://mathworld.wolfram.com/ReuleauxTetrahedron.html)
 - [Meissner Tetrahedra](https://mathworld.wolfram.com/MeissnerTetrahedra.html)
