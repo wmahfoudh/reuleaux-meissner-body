@@ -5,7 +5,7 @@ The Reuleaux tetrahedron and the Meissner tetrahedra are both three-dimensional 
 
 ![01](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/01.gif)
 
-![02](https://indraadhwa.com/wp-content/uploads/2021/07/gif.gif)
+![02](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/02.gif)
 
 When rotated, a disk will keep its centre fixed, while the Reuleaux triangel will have its centre of gravity rotating on a circular path.
 
