@@ -45,7 +45,7 @@ Happy 3D printing!
 
 ## Bonus
 
-Reuleaux Trangle shape has been used a lot in Ghotic architecture
+Reuleaux Triangle shape has been [used](https://www.google.com/search?q=reuleaux+triangle+use+in+ghotic+architecture&tbm=isch) a lot in Ghotic architecture
 
 ![12](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/12.png)
 
