@@ -9,11 +9,11 @@ The Reuleaux tetrahedron and the Meissner tetrahedra are both three-dimensional 
 
 When rotated, a disk will keep its centre fixed, while the Reuleaux triangel will have its centre of gravity rotating on a circular path.
 
-![01](https://upload.wikimedia.org/wikipedia/commons/2/22/Rotation_of_Reuleaux_triangle.gif?20110824132342)
+![03](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/03.gif)
 
 This is an interesting property that is used to for example to drill square holes:
 
-![Drill](https://i.imgur.com/SEUN3Qa.gif)
+![04](https://raw.githubusercontent.com/wmahfoudh/reuleaux-meissner-body/main/images/04.gif)
 
 ## Now in 3D: The Reuleaux Tetrahedron
 The Reuleaux tetrahedron is the intersection of four balls centered at the vertices of a regular tetrahedron. It has the same face structure as a regular tetrahedron, but with curved faces: four vertices, and four curved faces, connected by six circular-arc edges.
