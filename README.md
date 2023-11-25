@@ -1,13 +1,19 @@
 A 3D model of both, the Reuleaux tetrahedron and Meissner body in STEP and STL formats
 
 ## Let's start in 2D: the Reuleaux Triangle
-The Reuleaux tetrahedron and the Meissner tetrahedra are both three-dimensional shapes that are related to the Reuleaux triangle, a two-dimensional curve of constant width. When rotated, a disk will keep its centre fixed, while the Reuleaux triangel will have its centre of gravity rotating on a circular path.
-
-![01](https://upload.wikimedia.org/wikipedia/commons/2/22/Rotation_of_Reuleaux_triangle.gif?20110824132342)
+The Reuleaux tetrahedron and the Meissner tetrahedra are both three-dimensional shapes that are related to the Reuleaux triangle, a two-dimensional curve of constant width.
 
 ![03](https://upload.wikimedia.org/wikipedia/commons/8/8a/Reuleaux_triangle_roll.gif?20161212062058)
 
 ![02](https://indraadhwa.com/wp-content/uploads/2021/07/gif.gif)
+
+When rotated, a disk will keep its centre fixed, while the Reuleaux triangel will have its centre of gravity rotating on a circular path.
+
+![01](https://upload.wikimedia.org/wikipedia/commons/2/22/Rotation_of_Reuleaux_triangle.gif?20110824132342)
+
+This is an interesting property that is used to for example to drill square holes:
+
+![Drill](https://i.imgur.com/SEUN3Qa.gif)
 
 ## Now in 3D: The Reuleaux Tetrahedron
 The Reuleaux tetrahedron is the intersection of four balls of radius s centered at the vertices of a regular tetrahedron. It has the same face structure as a regular tetrahedron, but with curved faces: four vertices, and four curved faces, connected by six circular-arc edges.
@@ -24,7 +30,8 @@ Because the Reuleaux tetrahedron is not a surface of a constant width like the t
 ![Meissner](http://www.xtalgrafix.com/Reuleaux/meissner3a.gif)
 
 ![Meissner](https://i.imgur.com/i0rAlkl.gif)
-## Models
+
+## Models in this repository
 - Reuleaux tetrahedron & Meissner tetrahedra
 - Sides of both to create a hollowed shape and assemble it, magnets can be used for assembly
 Happy 3D printing!
