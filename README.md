@@ -2,6 +2,7 @@ A 3D model of both, the Reuleaux tetrahedron and Meissner body in STEP and STL f
 
 ## Let's start in 2D: the Reuleaux Triangle
 The Reuleaux tetrahedron and the Meissner tetrahedra are both three-dimensional shapes that are related to the Reuleaux triangle, a two-dimensional curve of constant width. When rotated, a disk will keep its centre fixed, while the Reuleaux triangel will have its centre of gravity rotating on a circular path.
+
 ![01](https://upload.wikimedia.org/wikipedia/commons/2/22/Rotation_of_Reuleaux_triangle.gif?20110824132342)
 ![03](https://upload.wikimedia.org/wikipedia/commons/8/8a/Reuleaux_triangle_roll.gif?20161212062058)
 
